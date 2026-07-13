@@ -1,0 +1,31 @@
+﻿OrderID,Date,Product,Category,Quantity,UnitPrice,CustomerID,Region,PaymentMethod
+1001,01/01/2024,Laptop Dell,Electronics,1,12000,C001,Cairo,Credit Card
+1002,01/01/2024,Mouse Wireless,Accessories,2,150,C002,Alexandria,Cash
+1003,02/01/2024,Keyboard Mechanical,Accessories,1,450,C001,Cairo,Credit Card
+1004,03/01/2024,"Monitor 27""",Electronics,1,3500,C003,Giza,Credit Card
+1005,05/01/2024,Laptop HP,Electronics,1,11000,C004,Cairo,Installment
+1006,06/01/2024,Headphones,Accessories,3,300,C002,Alexandria,Cash
+1007,08/01/2024,Webcam HD,Electronics,1,800,C005,Mansoura,Credit Card
+1008,10/01/2024,USB Hub,Accessories,2,200,C003,Giza,Cash
+1009,12/01/2024,Laptop Lenovo,Electronics,1,9500,C006,Cairo,Credit Card
+1010,15/01/2024,Mouse Pad,Accessories,5,50,C007,Alexandria,Cash
+1011,18/01/2024,"Monitor 24""",Electronics,1,2800,C008,Tanta,Installment
+1012,20/01/2024,Laptop Dell,Electronics,1,12000,C009,Cairo,Credit Card
+1013,22/01/2024,Headphones,Accessories,2,300,C010,Giza,Cash
+1014,25/01/2024,Keyboard Wireless,Accessories,1,350,C001,Cairo,Credit Card
+1015,28/01/2024,"Monitor 27""",Electronics,1,3500,C011,Alexandria,Credit Card
+1016,01/02/2024,Laptop Dell,Electronics,1,12000,C012,Cairo,Installment
+1017,03/02/2024,Mouse Wireless,Accessories,3,150,C013,Mansoura,Cash
+1018,05/02/2024,Webcam HD,Electronics,1,800,C014,Giza,Credit Card
+1019,08/02/2024,USB Hub,Accessories,4,200,C002,Alexandria,Cash
+1020,10/02/2024,Headphones,Accessories,2,300,C015,Tanta,Credit Card
+1021,12/02/2024,Laptop HP,Electronics,1,11000,C016,Cairo,Credit Card
+1022,15/02/2024,"Monitor 24""",Electronics,1,2800,C017,Alexandria,Installment
+1023,18/02/2024,Keyboard Mechanical,Accessories,1,450,C018,Mansoura,Cash
+1024,20/02/2024,Mouse Pad,Accessories,10,50,C019,Giza,Cash
+1025,22/02/2024,Laptop Lenovo,Electronics,1,9500,C020,Cairo,Credit Card
+1026,25/02/2024,Headphones,Accessories,2,300,C021,Tanta,Credit Card
+1027,28/02/2024,"Monitor 27""",Electronics,1,3500,C022,Alexandria,Credit Card
+1028,01/03/2024,Laptop Dell,Electronics,2,12000,C023,Cairo,Installment
+1029,05/03/2024,Mouse Wireless,Accessories,5,150,C024,Giza,Cash
+1030,08/03/2024,Webcam HD,Electronics,1,800,C025,Mansoura,Credit Card
