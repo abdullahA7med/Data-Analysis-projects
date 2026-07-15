@@ -29,7 +29,7 @@
 - HR Analytics Concepts (Turnover Rate, Tenure)
 
 ## 📸 Dashboard Preview
-[ضع هنا صورة الـ Dashboard]
+![Dashboard](HR_analysis/dashboard-Screenshot.png)
 
 ## 📁 Files
 - `hr-data.csv` — البيانات الأصلية (50 موظف)
