@@ -25,7 +25,7 @@
 - Data Visualization
 
 ## 📸 Dashboard Preview
-[ضع هنا صورة الـ Dashboard]
+![Dashboard](sales-dashboard.png)
 
 ## 📁 Files
 - `sales-data.csv` — البيانات الأصلية
