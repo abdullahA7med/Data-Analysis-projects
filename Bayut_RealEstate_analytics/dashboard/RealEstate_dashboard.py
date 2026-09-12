@@ -381,10 +381,10 @@ def load_data():
     """Load data from Supabase"""
     try:
         DB_PASSWORD = st.secrets["SUPABASE_PASSWORD"]
-        DB_USER = "postgres.hooarfcprckbcgbxczkl"
-        DB_HOST = "aws-1-eu-west-1.pooler.supabase.com"
-        DB_PORT = "6543"
-        DB_NAME = "postgres"
+        DB_USER = st.secrets["SUPABASE_USER"]
+        DB_HOST = st.secrets["SUPABASE_HOST"]
+        DB_PORT = st.secrets["SUPABASE_PORT"]
+        DB_NAME = st.secrets["SUPABASE_DB_NAME"]
         
         DATABASE_URI = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
         engine = create_engine(DATABASE_URI)
