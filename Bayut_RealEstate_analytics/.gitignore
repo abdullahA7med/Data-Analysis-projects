@@ -1,0 +1,30 @@
+# Environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Streamlit Secrets (لا ترفع أبداً!)
+.streamlit/secrets.toml
+
+# Large Files
+*.pkl
+*.pickle
+*.joblib
+*.bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log

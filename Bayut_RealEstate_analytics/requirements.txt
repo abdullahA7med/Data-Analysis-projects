@@ -1,0 +1,23 @@
+# 🕷️ Web Scraping
+scrapy>=2.11
+DrissionPage>=4.0
+itemadapter>=0.8
+
+# 🗄️ Database
+psycopg2-binary>=2.9
+sqlalchemy>=2.0
+
+# 🧹 Data Cleaning & EDA (للمراحل الجاية)
+pandas>=2.0
+numpy>=1.24
+rapidfuzz>=3.0
+scikit-learn>=1.3
+
+# 📊 Visualization & Dashboard (للمراحل الجاية)
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.15
+streamlit>=1.25
+
+# ☁️ Cloud Sync (للمراحل الجاية)
+requests>=2.31
