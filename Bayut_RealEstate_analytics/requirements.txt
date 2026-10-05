@@ -4,8 +4,9 @@ DrissionPage>=4.0
 itemadapter>=0.8
 
 # 🗄️ Database
+sqlalchemy>=2.0.0
 psycopg2-binary>=2.9.9
-sqlalchemy>=2.0
+psycopg[binary]>=3.1.0
 
 # 🧹 Data Cleaning & EDA (للمراحل الجاية)
 pandas>=2.0
